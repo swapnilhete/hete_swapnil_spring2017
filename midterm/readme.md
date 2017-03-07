@@ -29,7 +29,7 @@ Solution:
  
     
 
-:[Analysis 1](/midterm/output/Q1A1.JPG)
+![Analysis 1](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q1A1.JPG)
 
 **Conclusion** - As per the graph the volume of sent items are increased 12/1999 till 05/2001 this signify that there is lot of discussion going on between enron employee and this duration also corresponds to the year when scandal was busted. This duration can be used to analyse email more for further investigation
 
