@@ -50,8 +50,8 @@ Output Data : A graph and CSV file \midterm\Question 1\Analysis 2\userCount.csv
 5. Two temp dictionaries are created for storing graph data
 6. Two graphs are plotted for top 25 users who sent max. emails and another graph was plotted for top 25 users who has max. no. of emails in their folder
 
-:[Analysis2A](midterm/output/Q1A2a.JPG)
-:[Analysis2B](midterm/output/Q1A2b.JPG)
+![Analysis2A](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q1A2a.JPG)
+![Analysis2B](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q1A2b.JPG)
 
 **Conclusion** - In this analysis out of 151 users 25 users are shortlisted based on their email activities which might be responsible for fruad activities. This list has almost all top names which found to be accussed in Enron scandal 
 
@@ -84,6 +84,7 @@ Solution:
  
  
  **Conclusion** - From pie chart it is clear that user such as Skilling,Lay and scott are having higher fraud sentiment index. Which indicates that these person might be higly involved in Enron scandal. Same sort analysis can be implemented for each user. This might help in further investigation of selected users out of 150 users
+ ![Analysis3](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q1A3.JPG)
 
 # Question 2
 
@@ -110,6 +111,8 @@ Output Data : A graph and CSV file midterm\\data\\output\\foodDetails.csv
 **Conclusion** - From the first graph it is observed that most no. of articals are published for duration of 1995-2000. These artical mostly involved cooking recipes. Due to increased in no. of restaurent in intial year of 21st century there might be decline in food-recipes related articals and most of articals was ralted to dinning outside in hotel and restaurents.
 
 A pie chart shows most of artical contribution was through NYT magazines and 2nd most favorite artical section was Dinning and wine for outside activities.
+![Analysis1A](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q2A1a.JPG)
+![Analysis2A](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q2A1b.JPG)
 
 **Analysis 2 - Top 15 IT companies discussed based on NYT artical **                                                                     
 
@@ -132,9 +135,9 @@ Solution:
  8. Later data is stored in bar chart using matplotlib
  
 **Conclusion** - As most of data was from 90's there was boom for Microsoft products especially windows Pc and windows 98 and XP system. Hence Microsoft is at top position for all articals followed by IBM for its enterprise related software in demand during late 19 century.
+![Analysis2](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q2A2.JPG)
 
-
-**Analysis 2 - Top popular countries in tourism from NYT travel articals **                                                                     
+**Analysis 3 - Top popular countries in tourism from NYT travel articals **                                                                     
 
 File Name : Midterm_Q2_Analysis3
 
@@ -158,6 +161,7 @@ Solution:
  
  **Conclusion** - From the bar graph its is clear that advance countries where living standard of person is higher has most popularity in terms of tourism and travel. Companies with vibrant culture and largest  scenic land area are scoring top point in this analysis. This analysis includes top contries from respective continent. 
 
+![Analysis3](https://github.com/swapnilhete/hete_swapnil_spring2017/blob/master/midterm/output/Q2A3.JPG)
 
 ```python
 
