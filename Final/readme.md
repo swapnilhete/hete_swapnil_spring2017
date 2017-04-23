@@ -116,7 +116,7 @@ Output Data :  \Output\Final_Analysis_3\*
 
 **PART A **
 
-Below analysis get top most airlines based on no. of flight services they server in the USA Selected columns such as carrier, canceled, delayed and diverted flight with their reasons. Another CSV file L_UNIQUE_CARRIERS.csv is used to get airline code and its description. An inner join is performed on these two data frames to get complete carrier name.  A count function is used to get no. of flights operated by these airlines for the year 2015-16. The final data frame result is stored in A3_Top_Carriers.csv for reference.
+Below analysis get top most airlines based on no. of flight services they serves in the USA Selected columns such as carrier, canceled, delayed and diverted flight with their reasons. Another CSV file L_UNIQUE_CARRIERS.csv is used to get airline code and its description. An inner join is performed on these two data frames to get complete carrier name.  A count function is used to get no. of flights operated by these airlines for the year 2015-16. The final data frame result is stored in A3_Top_Carriers.csv for reference.
 
 Using plotly a vertical bar graph is plotted. With Airlines with max. no. of services are on left-hand side of a graph with airlines which low services are on the right-hand side of the graph. Airlines such as Southwest, Delta, American Airlines are the leader in USA domestic services. Southwest airlines served almost 2.5 M flight in these two years.
 
