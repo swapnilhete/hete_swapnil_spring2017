@@ -1,0 +1,15 @@
+CARRIER,Description_x,Per_cancelled,Per_diverted,Per_delayed
+WN,Southwest Airlines Co.,1.25,0.25,20.48
+DL,Delta Air Lines Inc.,0.44,0.2,18.47
+AA,American Airlines Inc.,1.33,0.26,28.11
+OO,SkyWest Airlines Inc.,1.54,0.29,32.27
+EV,ExpressJet Airlines Inc.,2.55,0.34,29.85
+UA,United Air Lines Inc.,1.14,0.26,17.36
+B6,JetBlue Airways,1.47,0.25,26.85
+AS,Alaska Airlines Inc.,0.42,0.25,38.67
+MQ,Envoy Air,5.1,0.28,27.02
+NK,Spirit Air Lines,1.81,0.15,32.35
+US,US Airways Inc.,2.05,0.21,33.91
+F9,Frontier Airlines Inc.,0.95,0.17,32.69
+HA,Hawaiian Airlines Inc.,0.19,0.09,52.89
+VX,Virgin America,0.92,0.24,31.89
